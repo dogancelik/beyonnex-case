@@ -1,0 +1,14 @@
+.root {
+  margin: 3rem;
+  text-align: center;
+}
+
+.logo {
+  vertical-align: bottom;
+  margin-bottom: 1px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
